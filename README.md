@@ -1,5 +1,21 @@
 # googletest-with-cmake-sample
 
+## Project
+```
+.
+|-- CMakeLists.txt
+|-- LICENSE
+|-- README.md
+|-- src
+|   |-- CMakeLists.txt
+|   |-- main.cc
+|   |-- my_math.cc
+|   `-- my_math.h
+`-- test
+    |-- CMakeLists.txt
+    `-- test.cc
+```
+
 ## Setup
 ```
 $ sudo apt-get install cmake
