@@ -1,0 +1,1 @@
+# googletest-with-cmake-sample
